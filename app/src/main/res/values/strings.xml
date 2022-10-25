@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sitek</string>
+    <string name="enter_a_password">Enter a password</string>
+    <string name="password">P@ssw0rd</string>
+    <string name="enter">Enter</string>
+    <string name="device_enters">Входы с этого устройства:</string>
+    <string name="response">Response:</string>
+    <string name="continue_work">ContinueWork:</string>
+    <string name="photo_hash">PhotoHash:</string>
+    <string name="current_date">Current date:</string>
+    <string name="time">Time:</string>
+</resources>
